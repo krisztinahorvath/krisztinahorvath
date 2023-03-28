@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisztinahorvath&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=krisztinahorvath&count_private=true&theme=tokyonight&showicons=true)]() -->
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krisztinahorvath&langs_count=5&theme=dark)]()
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krisztinahorvath&langs_count=5&theme=dark)]() -->
 
 
 ---
